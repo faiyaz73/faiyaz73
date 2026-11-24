@@ -9,11 +9,12 @@ I'm a passionate Web Developer focused on building modern, responsive, and user-
 
 ## 💻 Technical Skills
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frontend:** React.js, Next.js, Tailwind CSS,Bootstrap
-- **Cloud:** AWS
-- **Computer Science:** Data Structures & Algorithms (DSA)
-- **Version Control:** Git & GitHub
+-Frontend: HTML, CSS, JavaScript, React.js, Next.js
+Backend: Node.js, Express.js
+Database: MongoDB, Mongoose
+CSS Frameworks: Tailwind CSS, Bootstrap
+Programming: Python
+Cloud: AWS
 
 ## 🤖 AI Tools & Technologies
 
