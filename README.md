@@ -46,7 +46,7 @@ I regularly build and upload projects to GitHub to improve my development skills
 
 Explore my repositories:
 
-👉 https://github.com/faiyaz73?tab=repositories
+👉 [View My GitHub Projects](https://github.com/faiyaz73?tab=repositories)
 
 ---
 
@@ -58,8 +58,9 @@ To grow as a Full Stack Web Developer and build innovative, scalable, and user-f
 
 ## 📫 Connect With Me
 
-- **GitHub:** https://github.com/faiyaz73
+- **GitHub:** [Faiyaz73](https://github.com/faiyaz73)
 - **Location:** Delhi, India
+- **Phone:** [+91 7379622151](tel:+917379622151)
 
 ---
 
