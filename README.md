@@ -9,12 +9,16 @@ I'm a passionate Web Developer focused on building modern, responsive, and user-
 
 ## 💻 Technical Skills
 
--Frontend: HTML, CSS, JavaScript, React.js, Next.js
-Backend: Node.js, Express.js
-Database: MongoDB, Mongoose
-CSS Frameworks: Tailwind CSS, Bootstrap
-Programming: Python
-Cloud: AWS
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **CSS Frameworks:** Tailwind CSS, Bootstrap
+- **Programming:** Python
+- **Cloud:** AWS
+- **DSA:** Data Structures & Algorithms
+- **Version Control:** Git, GitHub
+
+---
 
 ## 🤖 AI Tools & Technologies
 
@@ -22,6 +26,8 @@ Cloud: AWS
 - Cursor AI
 - OpenAI Codex
 - DeepSeek
+
+---
 
 ## 🚀 What I'm Working On
 
@@ -32,16 +38,23 @@ Cloud: AWS
 - Improving problem-solving skills through DSA.
 - Using AI tools to improve development workflows.
 
+---
+
 ## 📂 My Projects
 
 I regularly build and upload projects to GitHub to improve my development skills.
 
 Explore my repositories:
+
 👉 https://github.com/faiyaz73?tab=repositories
+
+---
 
 ## 🎯 My Goal
 
 To grow as a Full Stack Web Developer and build innovative, scalable, and user-friendly digital solutions.
+
+---
 
 ## 📫 Connect With Me
 
